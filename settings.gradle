@@ -1,0 +1,3 @@
+rootProject.name='LuckyDiary'
+include ':app'
+include ':common'
